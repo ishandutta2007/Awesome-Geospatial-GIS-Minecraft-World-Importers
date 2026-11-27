@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Geospatial-GIS-Minecraft-World-Importers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Geospatial-GIS-Minecraft-World-Importers?style=flat-square&logo=github" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Geospatial-GIS-Minecraft-World-Importers/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Geospatial-GIS-Minecraft-World-Importers?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Geospatial-GIS-Minecraft-World-Importers/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Geospatial-GIS-Minecraft-World-Importers?style=flat-square&logo=github" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Geospatial-GIS-Minecraft-World-Importers/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Geospatial-GIS-Minecraft-World-Importers?style=flat-square" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Geospatial-GIS-Minecraft-World-Importers/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -61,9 +61,9 @@ The global Geographic Information Systems (GIS) and spatial analytics market is 
 
 ## 💻 Open-Source GitHub Projects & GIS-to-Minecraft Importers
 
-*Sorted descending by repository GitHub Star count.*
+*Sorted descending by repository GitHub Stars_Count.*
 
-| Project | Stars | Category / Tech Stack | License | Description |
+| Project | GitHub_Stars | Category / Tech Stack | License | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Arnis (`louis-e/arnis`)](https://github.com/louis-e/arnis)** | <a href="https://github.com/louis-e/arnis/stargazers"><img src="https://img.shields.io/github/stars/louis-e/arnis?style=social&color=white" alt="Stars" /></a> | 🏙️ Real-World 3D City Generator (Rust) | AGPL-3.0 | Generates detailed real-world locations in Minecraft using OpenStreetMap and digital elevation data with high fidelity. |
 | **[QGIS (`qgis/QGIS`)](https://github.com/qgis/QGIS)** | <a href="https://github.com/qgis/QGIS/stargazers"><img src="https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white" alt="Stars" /></a> | 🗺️ Desktop GIS Workstation (C++ / Python) | GPL-2.0 | Flagship open-source geographical information system used for preprocessing DEM rasters, LiDAR point clouds, and OSM vectors for Minecraft import. |
@@ -97,7 +97,7 @@ Contributions are warmly welcomed! 🌟 To add or update an entry:
 1. **Fork** the repository on GitHub.
 2. **Create a branch** for your feature or project update (`git checkout -b feature/add-new-gis-tool`).
 3. **Add the tool** to either the SaaS or Open-Source table, maintaining alphabetical or sorted order.
-4. **Include factual data**: Official URL, star badge (for open-source), clear license, specific starting price, and exact free tier limits.
+4. **Include factual data**: Official URL, Stars_Badge (for open-source), clear license, specific starting price, and exact free tier limits.
 5. **Open a Pull Request** with a concise description of why the tool is valuable for geospatial GIS and Minecraft builders.
 
 ---
